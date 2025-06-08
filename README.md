@@ -7,6 +7,11 @@ Uses the Protocol: `loop://`, because my name is TRC **Loop**.
 
 The official Browser for Webage.
 
+### Engine: Tick
+
+Found under:
+`/Synage/Tick/`
+
 ## DNSAPI
 
 The DNS-Resolving API.
