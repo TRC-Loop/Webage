@@ -5,7 +5,15 @@ Uses the Protocol: `loop://`, because my name is TRC **Loop**.
 
 ## Synage
 
-The official Browser for Webage.
+<p align="center">
+  <img src="https://github.com/TRC-Loop/Webage/blob/main/.github/assets/Synage-w.svg", width=320>
+  <br>
+  The official Browser for Webage.
+</p>
+
+Found under:
+`/Synage/`
+
 
 ### Engine: Tick
 
@@ -16,3 +24,6 @@ Found under:
 
 The DNS-Resolving API.
 Basically just a Database with the Webage Address and their Github Counterpart (http) address.
+
+Found under:
+`/DNSAPI/`
