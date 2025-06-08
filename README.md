@@ -3,6 +3,10 @@ The other internet, and browser.
 
 Uses the Protocol: `loop://`, because my name is TRC **Loop**.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,lua,python,go" alt="Stack">
+</p>
+
 ## Synage
 
 <p align="center">
