@@ -14,6 +14,8 @@ Uses the Protocol: `loop://`, because my name is TRC **Loop**.
 Found under:
 `/Synage/`
 
+Written in:
+- Python (PySide6)
 
 ### Engine: Tick
 
@@ -27,3 +29,6 @@ Basically just a Database with the Webage Address and their Github Counterpart (
 
 Found under:
 `/DNSAPI/`
+
+Written in:
+- Go (net/http, sqlite)
